@@ -6,7 +6,7 @@ db.sqlite3
 media
 .DS_Store
 
-/env
+
 # Backup files # 
 *.bak 
 
@@ -101,7 +101,7 @@ celerybeat-schedule.*
 # Environments 
 .env 
 .venv 
-env/ 
+/env/ 
 venv/ 
 ENV/ 
 env.bak/ 
